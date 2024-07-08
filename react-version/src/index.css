@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.bg-container {
+	background-image: url('./images/my_img_as_bg-transparent(1).png');
+	background-position: right;
+	background-repeat: no-repeat;
+}
